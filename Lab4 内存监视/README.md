@@ -95,7 +95,7 @@ void getProcessDetail(int pid);  // 获取特定进程信息  
 
 分步输入*`pid`*与进程`ID`，得到特定进程的虚拟地址空间布局核工作集信息：
 
-![image-20211126152711204](C:\Users\14793\AppData\Roaming\Typora\typora-user-images\image-20211126152711204.png)
+![image.png](https://tva1.sinaimg.cn/large/0084b03xgy1gww69e25i7j30m80dhala.jpg)
 
 
 
